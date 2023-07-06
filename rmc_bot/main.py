@@ -10,7 +10,7 @@ from aiogram.utils.exceptions import (MessageToEditNotFound, MessageCantBeEdited
 import emoji
 from os import path, listdir
 
-bot = Bot(token="6298134701:AAGtJ4IL03IueqClTvfZjquiKkqXTb7mYbA")
+bot = Bot(token="")
 
 startText = """Добрый день!
 
